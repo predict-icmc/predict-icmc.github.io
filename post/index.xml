@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PREDICT-ICMC</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on PREDICT-ICMC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparando três modelos preditivos para o Covid-19</title>
+      <link>/2021/03/30/comparando-tr%C3%AAs-modelos-preditivos-para-o-covid-19/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/03/30/comparando-tr%C3%AAs-modelos-preditivos-para-o-covid-19/</guid>
+      <description>Comparação de modelos preditivos para o número de casos confirmados de Covid-19 Neste projeto utilizaremos três modelos (Gompertz, ARIMA e Redes Neurais) para tentar prever o comportamento da pandemia de Covid-19 através do número total de casos confirmados na cidade de São Paulo - SP.
+Conjunto de dados Para obter os dados mais atuais do Covid-19 do site brasil.io utilizamos o pacote Gather-Covid.</description>
+    </item>
+    
+    <item>
+      <title>Prevendo os casos através do SARIMA</title>
+      <link>/2021/03/30/prevendo-os-casos-atrav%C3%A9s-do-sarima/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/03/30/prevendo-os-casos-atrav%C3%A9s-do-sarima/</guid>
+      <description>Para inicio do projeto, precisamos ‘chamar’ o banco de dados presente em nosso github no arquivo “inicialização.R”,
+Carregando as bibliotecas necessárias para o código a seguir: library(stats) library(seastests) # teste de sazonalidade library(tidyverse) ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.0 ── ## ✓ ggplot2 3.3.3 ✓ purrr 0.3.4 ## ✓ tibble 3.0.5 ✓ dplyr 1.0.3 ## ✓ tidyr 1.1.2 ✓ stringr 1.4.0 ## ✓ readr 1.4.0 ✓ forcats 0.5.0 ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ── ## x dplyr::filter() masks stats::filter() ## x dplyr::lag() masks stats::lag() library(gather.</description>
+    </item>
+    
+  </channel>
+</rss>
